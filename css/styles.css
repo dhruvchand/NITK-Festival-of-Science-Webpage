@@ -1,0 +1,158 @@
+*
+{
+    margin:0px;
+    padding:0px;
+}
+html
+{
+    height:100%;
+    width:100%;
+}
+
+body
+{
+    height:100%;
+    width:100%;
+    background-color:#333;
+}
+
+#heading
+{
+    font-family:'Trajan Pro';
+    font-weight:lighter;
+    color:#444;
+    line-height:36px;
+    font-size:32px;
+    padding-top:20px;
+   
+}
+#heading p
+{
+    font-family:tahoma, sans-serif;
+    font-weight:lighter;
+    color:#444;
+    font-size:18px;
+}
+
+#header
+{
+    background-color:#FFF;
+    box-shadow:0px 0px 4px rgba(0,0,0,1);
+}
+
+#slider
+{
+    background-image:url(../img/bg0.jpg);
+    background-position:center;
+    background-repeat:no-repeat;
+    background-size:cover;
+    height:420px;
+    box-shadow:inset 0px 0px 5px rgba(0,0,0,0.4);
+    background-color:#000;
+}
+
+#caption
+{
+    text-align:right;
+     font-family:tahoma, sans-serif;
+    font-weight:lighter;
+    color:#FFF;
+    font-size:28px;
+    padding-top:10px;
+    text-shadow:0px 0px 5px rgba(0,0,0,0.3);
+    background-color:rgba(0,0,0,0.7);
+    float:right;
+    padding:20px;
+    margin-top:20%;
+}
+#caption p
+{
+    
+ font-size:18px;
+}
+
+#menu
+{
+     font-family:tahoma, sans-serif;
+    font-weight:lighter;
+    color:#666;
+    font-size:12px;
+    line-height:80px;
+}
+#menu a
+{
+    padding:20px;
+    cursor:pointer;
+}
+
+.right
+{
+    text-align:right;
+}
+
+.small
+{
+         font-family:tahoma, sans-serif;
+    font-weight:lighter;
+    color:#666;
+    font-size:12px;
+    line-height:80px;
+}
+.medium
+{
+         font-family:tahoma, sans-serif;
+    font-weight:lighter;
+    color:#666;
+    font-size:14px;
+    line-height:20px;
+}
+
+h1
+{
+       font-family:tahoma, sans-serif;
+    font-weight:lighter;
+    color:#444;
+    font-size:48px;
+}
+h2
+{
+       font-family:tahoma, sans-serif;
+    font-weight:lighter;
+    color:#777;
+    font-size:32px;
+}
+
+#body
+{
+    margin-top:20px;
+}
+
+
+#logo
+{
+    padding:5px;
+}
+
+#menu a
+{
+     box-shadow:  0px 100px 40px rgba(0,0,0,0.0);
+  	-webkit-transition: all 10.5 ease-in-out;
+-o-transition:  all 0.5s ease-in-out;
+-moz-transition:  all 0.5s ease-in-out;
+transition:  all 0.5s ease-in-out;
+border-radius:20px;
+}
+
+#menu a:hover
+{
+ box-shadow:  0px 100px 40px rgba(0,20,150,0.1);
+ background-color:rgba(0,0,10,0.1);
+}
+
+
+.content
+{
+text-align:justified;
+}
+
+    
